@@ -1,0 +1,12 @@
+.boutons {
+    display: flex;
+    justify-content: space-between; 
+    gap: 10px; 
+    width: 100%; 
+}
+.form-control{
+    height: 40px;
+}
+p{
+    padding-left: 40px;
+}
